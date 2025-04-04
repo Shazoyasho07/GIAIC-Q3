@@ -1,1 +1,51 @@
+# Problem 1: Reverse a String
+# Write a function that takes a string as input and returns the reversed string.
+# Example:
+# 🔹 Input: "hello"
+# 🔹 Output: "olleh"
+# 💡 Hint: Use Python's slicing feature.
 
+def reverse_string():
+    user_input = input("Enter a string: ")  # Taking user input
+    reversed_str = user_input[::-1]  # Reversing using slicing
+    print("Reversed String:", reversed_str)
+
+# Problem 2: Count Vowels in a String
+# Write a function that counts the number of vowels (a, e, i, o, u) in a string (case-insensitive).
+# Example:
+# 🔹 Input: "Apple"
+# 🔹 Output: 2
+# 💡 Hint: Use a loop and check if each character is in a set of vowels.
+
+def count_vowels():
+    user_input = input("Enter a string: ")  # Taking user input
+    vowels = {'a', 'e', 'i', 'o', 'u'}  # Vowel set
+    count = sum(1 for char in user_input.lower() if char in vowels)  # Counting vowels
+    print("Vowel Count:", count)
+
+# Problem 3: Sum of Digits
+# Write a function that takes a non-negative integer and returns the sum of its digits.
+# Example:
+# 🔹 Input: 1234
+# 🔹 Output: 10
+# 💡 Hint: Convert the number to a string and iterate over each digit or use modulus and division.
+
+def sum_of_digits():
+    user_input = input("Enter a non-negative integer: ")  # Taking user input
+    if not user_input.isdigit():  # Checking if input is a valid non-negative integer
+        print("Invalid input! Please enter a non-negative integer.")
+        return
+    total_sum = sum(int(digit) for digit in user_input)  # Summing up the digits
+    print("Sum of Digits:", total_sum)
+
+
+# Function Calls
+if __name__ == "__main__":
+    print("\n🔹 Problem 1: Reverse a String")
+    reverse_string()
+
+    print("\n🔹 Problem 2: Count Vowels in a String")
+    count_vowels()
+
+    print("\n🔹 Problem 3: Sum of Digits")
+    sum_of_digits()
