@@ -1,5 +1,5 @@
 Class Resources & Assignments
-📌Class 2 Code
+📌 Class 2 Code
 The code for today's class can be accessed on Google Colab:
 🔗 Class Notebook
 
