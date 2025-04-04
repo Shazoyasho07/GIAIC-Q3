@@ -14,7 +14,7 @@ Complete the first seven steps of Sir Zia's repository:
 
 ### ✅ Assignment 2: Growth Mindset Challenge  
 Review and complete the Growth Mindset Challenge:  
-🔗 [Growth Mindset Challenge](https://github.com/panaversity/learn-modern-ai-python/blob/main/Growth_Mindset_Challenge.md)  
+🔗 [Growth Mindset Challenge](https://github.com/panaversity/learn-modern-ai-python/blob/main/Growth_Mindset_Challenge.md) (https://growth-mindse-nqncwd9hrmegi3rxdfys2r.streamlit.app/) 
 
 ### ✅ Assignment 3: Python Operators (`is` vs `in`)  
 Research and explain the difference between the `is` and `in` operators in Python. Provide examples to demonstrate their usage.  
