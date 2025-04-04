@@ -10,7 +10,8 @@ The code for today's class can be accessed on Google Colab:
 
 ### ✅ Assignment 1: Personal Library Manager  
 Work on the **Personal Library Manager** project from the repository:  
-🔗 [Personal Library Manager - GitHub Repo](https://github.com/panaversity/learn-modern-ai-python/blob/main/CLASS_PROJECTS/03_personal_library_manager/personal_library_manager.md)  
+🔗 [Personal Library Manager - GitHub Repo](https://github.com/panaversity/learn-modern-ai-python/blob/main/CLASS_PROJECTS/03_personal_library_manager/personal_library_manager.md)
+(https://github.com/Shazoyasho07/GIAIC-Q3/tree/main)
 
 ### ✅ Assignment 2: Complete Previous Assignments  
 Ensure all previous assignments are completed and submitted on **LinkedIn** and the class submission form.  
