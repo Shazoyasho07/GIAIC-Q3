@@ -1,5 +1,5 @@
 # 📌 Project 4 Assignments - Completed ✅
-I have completed all the assignments for you to make things easier. Don't just copy-paste these codes—understanding them will be much more beneficial for your future. Open each code, study it carefully, and then try to solve the assignments on your own. This way, you'll learn better, understand everything, and complete your assignments successfully.
+I have completed all the assignments.
 
 ## 📂 Homework Projects
 🔗 Questions Link: Click Here
