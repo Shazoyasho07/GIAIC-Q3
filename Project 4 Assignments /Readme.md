@@ -2,7 +2,7 @@
 I have completed all the assignments.
 
 ## 📂 Homework Projects
-🔗 Questions Link: Click Here
+🔗 Questions Link: Click Here (https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects)
 
 ## Assignments 00 to 05
 
