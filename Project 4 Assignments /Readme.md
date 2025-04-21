@@ -21,7 +21,10 @@ Program 4: how_old_are_they
 (https://colab.research.google.com/drive/1g10ebtCks9HVJwTutnkR5-_MNIUCKJf_#scrollTo=Y5O1qGTL18w6&line=4&uniqifier=1)
 
 Program 5: triangle_perimeter
+(https://colab.research.google.com/drive/10uDOMFbSPlPn4FYxd3fqqasJ1tHapk4K#scrollTo=_xR9Hi9l3EoI&line=14&uniqifier=1)
+
 Program 6: square_number
+()
 
 ### 01_expressions
 
