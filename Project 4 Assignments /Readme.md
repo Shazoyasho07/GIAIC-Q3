@@ -29,13 +29,28 @@ Program 6: square_number
 ### 01_expressions
 
 Program 1: dicesimulator
+(https://colab.research.google.com/drive/1bRVuamyycYUqE7N-wdwxoYJA5xak-nEZ#scrollTo=piEdF0uh5_hw&line=3&uniqifier=1)
+
 Program 2: e=mc2
+()
+
 Program 3: feet_to_inches
+()
+
 Program 4: pythagorean_theorem
+()
+
 Program 5: remainder_division
+()
+
 Program 6(a): rolldice
+()
+
 Program 6(b): seconds_in_year
+()
+
 Program 7: tiny_mad_lib
+()
 
 ### 02_lists
 
