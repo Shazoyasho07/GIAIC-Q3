@@ -8,12 +8,15 @@ I have completed all the assignments.
 
 ### 00_intro_python
 
-Program 1: add2numbers
+Program 1: add_2_numbers
 (https://colab.research.google.com/drive/1HtSH-dzBa99z5M8sbcPpDYe1sMcqObIM?usp=sharing)
 
 Program 2: agreement_bot
 (https://colab.research.google.com/drive/1Qx038S3ya3hb49RGcSOUPpsGDylfszrA#scrollTo=Iudk9KEfAH6r&line=2&uniqifier=1)
+
 Program 3: fahrenheit_to_celsius
+(https://colab.research.google.com/drive/1R1pk5j3eRD5z0VSqabeFZcYDyWDN_b_T#scrollTo=0jIHcl0g0F78&line=7&uniqifier=1)
+
 Program 4: how_old_are_they
 Program 5: triangle_perimeter
 Program 6: square_number
