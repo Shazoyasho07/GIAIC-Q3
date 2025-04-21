@@ -24,7 +24,7 @@ Program 5: triangle_perimeter
 (https://colab.research.google.com/drive/10uDOMFbSPlPn4FYxd3fqqasJ1tHapk4K#scrollTo=_xR9Hi9l3EoI&line=14&uniqifier=1)
 
 Program 6: square_number
-()
+(https://colab.research.google.com/drive/1enn4U79qm3cUsGBtUsFWgjD6IWfT4SrM#scrollTo=T_c9HWhR4gfC&line=10&uniqifier=1)
 
 ### 01_expressions
 
