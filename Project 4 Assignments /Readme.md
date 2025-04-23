@@ -32,7 +32,7 @@ Program 1: dicesimulator
 (https://colab.research.google.com/drive/1bRVuamyycYUqE7N-wdwxoYJA5xak-nEZ#scrollTo=piEdF0uh5_hw&line=3&uniqifier=1)
 
 Program 2: e=mc2
-()
+(https://colab.research.google.com/drive/1b2qEkybznj5oAPBTUhqlND3aRqz-Ht-J#scrollTo=9BYJBOLsx4-f)
 
 Program 3: feet_to_inches
 ()
